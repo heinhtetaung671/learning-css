@@ -1,4 +1,20 @@
-.welcome-info {
+#welcome-info {
     color: skyblue;
     font-family: monospace;
+}
+
+#description {
+    color: skyblue;
+}
+
+body {
+    color: red;
+}
+
+#about-me {
+    color: green;
+}
+
+#my-brother {
+    color: peru;
 }
